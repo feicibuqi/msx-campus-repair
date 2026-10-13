@@ -1,0 +1,9 @@
+# 本地临时文件，不进入仓库
+_cred.cmd
+_acl-recovery/
+_tmp_probe/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+Thumbs.db
